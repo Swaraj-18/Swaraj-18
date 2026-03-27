@@ -59,11 +59,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Swaraj-18&theme=tokyo-night" />
 </p>---
 
-🐍 Contribution Snake
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Swaraj-18/Swaraj-18/output/github-contribution-grid-snake.svg" />
-</p>---
+  <img src="https://raw.githubusercontent.com/Swaraj-18/Swaraj-18/output/snake-neon.svg" />
+</p>
 
 🌐 Connect With Me
 
