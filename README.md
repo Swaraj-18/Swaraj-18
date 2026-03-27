@@ -65,12 +65,6 @@
   <img src="https://raw.githubusercontent.com/Swaraj-18/Swaraj-18/output/github-contribution-grid-snake.svg" />
 </p>---
 
-🏆 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=baloo&ext=heatmap" />
-</p>---
-
 🌐 Connect With Me
 
 <p align="center">
